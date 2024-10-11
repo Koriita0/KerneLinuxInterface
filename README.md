@@ -8,13 +8,17 @@
 > Mainly you need to install Linux (No Distribution Version). That is going to be important to launch this interface.
 
 > [!WARNING]
-> This is a alpha.
+> We need Visual Studio Code and Git installed.
 
 ## Installation
 
-Pendenting.
+First, we are going to need Visual Studio Code and Git installed at our PC. After this we can open a new terminal and type the next command.
 
-`working on`
+`git clone https://github.com/Koriita0/KerneLinuxInterface.git`
+
+After this command we should get all the code. We only are going to need get in the folder so we are going to use.
+
+`cd kernel`
 
 ## Development
 
@@ -22,4 +26,4 @@ We still working on.
 
 ## Lasted Updates
 
-There is not updates for now.
+Linux Kernel have been uploaded. We can start working at our interface.
