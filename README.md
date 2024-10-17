@@ -10,9 +10,9 @@
 > [!WARNING]
 > We need Visual Studio Code and Git installed.
 
-## Installation
+# Installation
 
-# How to install Git
+## How to install Git
 
 First, we are going to need Visual Studio Code and Git installed at our PC. After this we can open a new terminal and type the next command.
 
@@ -22,10 +22,10 @@ After this command we should get all the code. We only are going to need get in 
 
 `cd kernel`
 
-## Development
+# Development
 
 We still working on.
 
-## Lasted Updates
+# Lasted Updates
 
 Linux Kernel have been uploaded. We can start working at our interface.
