@@ -14,6 +14,8 @@
 
 ## How to install Git
 
+Press `Win + R`
+
 First, we are going to need Visual Studio Code and Git installed at our PC. After this we can open a new terminal and type the next command.
 
 `git clone https://github.com/Koriita0/KerneLinuxInterface.git`
