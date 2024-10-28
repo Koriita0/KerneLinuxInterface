@@ -66,6 +66,7 @@ First, we are going to need Visual Studio Code and Git installed at our PC. Afte
 
 After this command we should get all the code. We only are going to need get in the folder so we are going to use.
 
+`cd KerneLinuxInterface`
 `cd kernel`
 
 # Development
